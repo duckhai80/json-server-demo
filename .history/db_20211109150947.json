@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": "9e66eabd-e930-4e4d-a4bc-59128b81f572",
+      "name": "Health",
+      "createdAt": 1636445384260,
+      "updatedAt": 1636445384260
+    },
+    {
+      "id": "1462f9d3-3c78-4401-b730-bf0ddf032748",
+      "name": "Industrial",
+      "createdAt": 1636445384261,
+      "updatedAt": 1636445384261
+    },
+    {
+      "id": "999959b2-1d9b-45f0-9817-abeacc43cac4",
+      "name": "Shoes",
+      "createdAt": 1636445384261,
+      "updatedAt": 1636445384261
+    },
+    {
+      "id": "8b388301-a46e-46f8-b25a-473bc6004e21",
+      "name": "Games",
+      "createdAt": 1636445384262,
+      "updatedAt": 1636445384262
+    }
+  ],
+  "products": [],
+  "profile": { "name": "Po" }
+}

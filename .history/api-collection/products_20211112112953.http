@@ -1,0 +1,54 @@
+@baseUrl=http://localhost:3000/api
+@resourceName=products
+
+# Categories
+
+# @name getAll
+GET {{baseUrl}}/{{resourceName}}
+###
+
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?price_gte=150
+###
+
+# @name filterProducts
+GET {{baseUrl}}/{{resourceName}}?name_like=ergon
+###
+
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=2
+###
+
+# @name sort
+GET {{baseUrl}}/{{resourceName}}?_sort=price,color&_order=asc,desc
+###
+
+# @name add
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "categoryId": "d9767553-94e4-4355-a01a-d897d36fd4e7",
+    "id": "06c769c6-5b66-48c1-a11c-cb70a6cf89b8",
+    "name": "Refined Wooden Cheese",
+    "color": "lavender",
+    "price": 588,
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    
+    "thumbnailUrl": "http://placeimg.com/400/400"
+  }
+###
+
+# @name update
+PATCH {{baseUrl}}/{{resourceName}}/2
+Content-Type: application/json
+
+{
+  "name": "New Laptop"
+}
+###
+
+# @name remove
+DELETE {{baseUrl}}/{{resourceName}}/3
+Content-Type: application/json
+###

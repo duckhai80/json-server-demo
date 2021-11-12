@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại",
+      "createdAt": 1616346753759,
+      "updatedAt": 1616346753759
+    }
+  ],
+  "products": [
+    {},
+    {}
+  ]
+}

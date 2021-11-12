@@ -1,0 +1,251 @@
+{
+  "categories": [
+    {
+      "id": "d9767553-94e4-4355-a01a-d897d36fd4e7",
+      "name": "Garden",
+      "createdAt": 1636603592984,
+      "updatedAt": 1636603592984
+    },
+    {
+      "id": "925c01d8-ccd3-4692-80e7-0430ecdd8821",
+      "name": "Garden",
+      "createdAt": 1636603592985,
+      "updatedAt": 1636603592985
+    },
+    {
+      "id": "0260204a-f00f-4847-a1bc-504216914c1d",
+      "name": "Automotive",
+      "createdAt": 1636603592986,
+      "updatedAt": 1636603592986
+    },
+    {
+      "id": "03627296-7dac-4f37-b453-f7e25cedd317",
+      "name": "Health",
+      "createdAt": 1636603592986,
+      "updatedAt": 1636603592986
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "d9767553-94e4-4355-a01a-d897d36fd4e7",
+      "id": "06c769c6-5b66-48c1-a11c-cb70a6cf89b8",
+      "name": "Refined Wooden Cheese",
+      "color": "lavender",
+      "price": 582,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1636603592988,
+      "updatedAt": 1636603592988,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d9767553-94e4-4355-a01a-d897d36fd4e7",
+      "id": "9b81db77-0fb2-4034-bccd-cf0aad3072ef",
+      "name": "Licensed Wooden Mouse",
+      "color": "green",
+      "price": 264,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1636603592989,
+      "updatedAt": 1636603592989,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d9767553-94e4-4355-a01a-d897d36fd4e7",
+      "id": "25a7c41f-5b4c-4fd5-9c59-ea5f29165034",
+      "name": "Intelligent Soft Ball",
+      "color": "salmon",
+      "price": 283,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1636603592989,
+      "updatedAt": 1636603592989,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d9767553-94e4-4355-a01a-d897d36fd4e7",
+      "id": "2f8af94a-4d2f-4fd2-afaf-ec4028b47bce",
+      "name": "Intelligent Steel Keyboard",
+      "color": "ivory",
+      "price": 301,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1636603592990,
+      "updatedAt": 1636603592990,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "d9767553-94e4-4355-a01a-d897d36fd4e7",
+      "id": "9665c654-dd3d-4119-a04e-29492fb8c1ee",
+      "name": "Handcrafted Soft Shoes",
+      "color": "orchid",
+      "price": 956,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1636603592991,
+      "updatedAt": 1636603592991,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "925c01d8-ccd3-4692-80e7-0430ecdd8821",
+      "id": "5de40a3e-061a-4b4f-b02b-41b04e80b542",
+      "name": "Fantastic Wooden Towels",
+      "color": "mint green",
+      "price": 427,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1636603592991,
+      "updatedAt": 1636603592991,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "925c01d8-ccd3-4692-80e7-0430ecdd8821",
+      "id": "b9a029c0-287c-45cc-a201-881d749978ca",
+      "name": "Unbranded Steel Salad",
+      "color": "purple",
+      "price": 556,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1636603592992,
+      "updatedAt": 1636603592992,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "925c01d8-ccd3-4692-80e7-0430ecdd8821",
+      "id": "49f44c7d-de76-4e40-a413-9682fed80d33",
+      "name": "Incredible Steel Mouse",
+      "color": "salmon",
+      "price": 812,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1636603592992,
+      "updatedAt": 1636603592992,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "925c01d8-ccd3-4692-80e7-0430ecdd8821",
+      "id": "e52a856f-4b63-4afd-8e75-c3e84e6cf1c4",
+      "name": "Intelligent Granite Shirt",
+      "color": "violet",
+      "price": 623,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1636603592993,
+      "updatedAt": 1636603592993,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "925c01d8-ccd3-4692-80e7-0430ecdd8821",
+      "id": "319d64a7-64a2-4c0a-bc5b-1754c51f7190",
+      "name": "Intelligent Wooden Mouse",
+      "color": "yellow",
+      "price": 202,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1636603592994,
+      "updatedAt": 1636603592994,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0260204a-f00f-4847-a1bc-504216914c1d",
+      "id": "05699434-acb4-4d40-a494-62c2bbe6f59f",
+      "name": "Handmade Granite Car",
+      "color": "olive",
+      "price": 315,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1636603592994,
+      "updatedAt": 1636603592994,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0260204a-f00f-4847-a1bc-504216914c1d",
+      "id": "af07c6a7-dd12-4f04-a762-b17923630d23",
+      "name": "Awesome Metal Soap",
+      "color": "magenta",
+      "price": 206,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1636603592994,
+      "updatedAt": 1636603592994,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0260204a-f00f-4847-a1bc-504216914c1d",
+      "id": "0c60aa39-4a6e-4b1a-87f6-ad1a73c5e0ef",
+      "name": "Rustic Steel Towels",
+      "color": "azure",
+      "price": 488,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1636603592995,
+      "updatedAt": 1636603592995,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0260204a-f00f-4847-a1bc-504216914c1d",
+      "id": "d651501f-a1b5-4fc2-af91-ba0d3edfd9d2",
+      "name": "Intelligent Rubber Soap",
+      "color": "magenta",
+      "price": 108,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1636603592996,
+      "updatedAt": 1636603592996,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "0260204a-f00f-4847-a1bc-504216914c1d",
+      "id": "21a51893-cf88-464f-a7e3-bfd545842ed4",
+      "name": "Incredible Rubber Computer",
+      "color": "lime",
+      "price": 219,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1636603592996,
+      "updatedAt": 1636603592996,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "03627296-7dac-4f37-b453-f7e25cedd317",
+      "id": "28e11fca-adb8-4176-bb8e-a26666cd7fa7",
+      "name": "Ergonomic Soft Cheese",
+      "color": "ivory",
+      "price": 668,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1636603592997,
+      "updatedAt": 1636603592997,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "03627296-7dac-4f37-b453-f7e25cedd317",
+      "id": "79e681f1-bb7b-46dc-b48f-4df0088c01f0",
+      "name": "Unbranded Soft Chair",
+      "color": "fuchsia",
+      "price": 603,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1636603592997,
+      "updatedAt": 1636603592997,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "03627296-7dac-4f37-b453-f7e25cedd317",
+      "id": "4060aad4-3ff8-44f9-9497-a8fb40527449",
+      "name": "Licensed Fresh Hat",
+      "color": "violet",
+      "price": 609,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1636603592998,
+      "updatedAt": 1636603592998,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "03627296-7dac-4f37-b453-f7e25cedd317",
+      "id": "c1ce9b9d-0e55-41a2-9a10-160b08b9bb7a",
+      "name": "Licensed Cotton Tuna",
+      "color": "azure",
+      "price": 59,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1636603592998,
+      "updatedAt": 1636603592998,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "03627296-7dac-4f37-b453-f7e25cedd317",
+      "id": "c8aaa9ac-48da-4d47-a608-9394faae7040",
+      "name": "Generic Cotton Computer",
+      "color": "orange",
+      "price": 752,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1636603592999,
+      "updatedAt": 1636603592999,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    }
+  ],
+  "profile": { "name": "Po" }
+}

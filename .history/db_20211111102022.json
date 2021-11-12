@@ -1,0 +1,211 @@
+{
+  "categories": [
+    {
+      "id": "617bd277-bda6-4fde-bf99-e2d88b1e02d4",
+      "name": "Health",
+      "createdAt": 1636600807450,
+      "updatedAt": 1636600807450
+    },
+    {
+      "id": "c3bf94c6-bb7f-4531-956d-50d408f0e794",
+      "name": "Health",
+      "createdAt": 1636600807451,
+      "updatedAt": 1636600807451
+    },
+    {
+      "id": "1ffbc8b3-5524-4fa5-af1d-7231c70359cb",
+      "name": "Health",
+      "createdAt": 1636600807453,
+      "updatedAt": 1636600807453
+    },
+    {
+      "id": "6e1a37d1-0d59-4a3a-916b-9482a47f25b7",
+      "name": "Toys",
+      "createdAt": 1636600807455,
+      "updatedAt": 1636600807455
+    }
+  ],
+  "products": [
+    {
+      "id": "5c768288-49e0-4c07-bde2-dc6b95c366fe",
+      "name": "Tasty Plastic Towels",
+      "color": "green",
+      "price": "543.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1636600807476,
+      "updatedAt": 1636600807476
+    },
+    {
+      "id": "a55e7462-056b-4052-8cf2-7773d12e656f",
+      "name": "Rustic Metal Ball",
+      "color": "grey",
+      "price": "129.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1636600807478,
+      "updatedAt": 1636600807478
+    },
+    {
+      "id": "452a7c85-6782-4eec-9872-8d1405538db9",
+      "name": "Generic Granite Pants",
+      "color": "violet",
+      "price": "225.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1636600807479,
+      "updatedAt": 1636600807479
+    },
+    {
+      "id": "f8b27080-db1a-4f92-a76c-a2d1d3649fcd",
+      "name": "Licensed Fresh Bacon",
+      "color": "silver",
+      "price": "695.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1636600807480,
+      "updatedAt": 1636600807480
+    },
+    {
+      "id": "ba3f2543-63e7-4c12-b0c7-726fc015b905",
+      "name": "Awesome Fresh Ball",
+      "color": "gold",
+      "price": "129.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1636600807481,
+      "updatedAt": 1636600807481
+    },
+    {
+      "id": "cd74cb3d-f211-4fbc-abf1-1a9dc8d93bb6",
+      "name": "Intelligent Steel Tuna",
+      "color": "sky blue",
+      "price": "28.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1636600807483,
+      "updatedAt": 1636600807483
+    },
+    {
+      "id": "3ee6d163-f193-482b-867b-935415be4368",
+      "name": "Refined Cotton Table",
+      "color": "fuchsia",
+      "price": "491.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1636600807484,
+      "updatedAt": 1636600807484
+    },
+    {
+      "id": "c41255d4-72ab-41c5-ade7-df512697c693",
+      "name": "Handcrafted Metal Cheese",
+      "color": "purple",
+      "price": "685.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1636600807485,
+      "updatedAt": 1636600807485
+    },
+    {
+      "id": "6655f86f-de95-4264-b304-08366d81f256",
+      "name": "Sleek Cotton Ball",
+      "color": "orange",
+      "price": "705.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1636600807486,
+      "updatedAt": 1636600807486
+    },
+    {
+      "id": "a015ef30-98bd-400e-a39f-f2a017f88b29",
+      "name": "Refined Soft Soap",
+      "color": "purple",
+      "price": "611.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1636600807488,
+      "updatedAt": 1636600807488
+    },
+    {
+      "id": "f6e110be-c4cd-4b6b-84b0-fda3242b4aaa",
+      "name": "Handmade Plastic Shirt",
+      "color": "tan",
+      "price": "766.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1636600807490,
+      "updatedAt": 1636600807490
+    },
+    {
+      "id": "4018ef4e-dd10-4cd1-b700-bb6e2dc954a6",
+      "name": "Incredible Frozen Bike",
+      "color": "magenta",
+      "price": "402.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1636600807490,
+      "updatedAt": 1636600807490
+    },
+    {
+      "id": "7b2c90bc-aede-42ac-b2c1-cdf51ba8bca2",
+      "name": "Awesome Cotton Car",
+      "color": "plum",
+      "price": "853.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1636600807491,
+      "updatedAt": 1636600807491
+    },
+    {
+      "id": "e5accbdd-a00c-4c38-ad26-306499e6f829",
+      "name": "Generic Soft Chicken",
+      "color": "azure",
+      "price": "878.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1636600807492,
+      "updatedAt": 1636600807492
+    },
+    {
+      "id": "a7bdedd0-ff68-4b06-9896-1da7f98d260f",
+      "name": "Tasty Granite Table",
+      "color": "gold",
+      "price": "893.00",
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1636600807492,
+      "updatedAt": 1636600807492
+    },
+    {
+      "id": "dd4541a3-bd33-476a-b212-ffaa38583216",
+      "name": "Handcrafted Cotton Towels",
+      "color": "tan",
+      "price": "182.00",
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1636600807493,
+      "updatedAt": 1636600807493
+    },
+    {
+      "id": "a6ab2ebb-90df-4529-8999-7a7ad80f2d02",
+      "name": "Licensed Wooden Soap",
+      "color": "mint green",
+      "price": "226.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1636600807497,
+      "updatedAt": 1636600807497
+    },
+    {
+      "id": "17682da7-592f-4ffb-9ae2-6daa38269540",
+      "name": "Awesome Fresh Mouse",
+      "color": "magenta",
+      "price": "619.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1636600807498,
+      "updatedAt": 1636600807498
+    },
+    {
+      "id": "8f186151-4aa1-4102-b0a2-a4ef67a8e3c0",
+      "name": "Gorgeous Soft Car",
+      "color": "azure",
+      "price": "517.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1636600807499,
+      "updatedAt": 1636600807499
+    },
+    {
+      "id": "90ef7e52-5396-41ee-81ff-b9631185eb1f",
+      "name": "Sleek Plastic Hat",
+      "color": "orchid",
+      "price": "312.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1636600807499,
+      "updatedAt": 1636600807499
+    }
+  ],
+  "profile": { "name": "Po" }
+}

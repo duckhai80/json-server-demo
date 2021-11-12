@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": "5632193a-a7c8-4a53-8de0-d25b61260aa2",
+      "createdAt": 1636445294750,
+      "updatedAt": 1636445294750
+    },
+    {
+      "id": "c486df46-32a1-4f76-8622-72ab27e3447b",
+      "createdAt": 1636445294750,
+      "updatedAt": 1636445294750
+    },
+    {
+      "id": "79991edf-5d1b-4925-b5d3-01f83b71ce92",
+      "createdAt": 1636445294751,
+      "updatedAt": 1636445294751
+    },
+    {
+      "id": "5807780e-e6b3-4361-8eee-0bb79fd5387b",
+      "createdAt": 1636445294751,
+      "updatedAt": 1636445294751
+    }
+  ],
+  "products": [],
+  "profile": { "name": "Po" }
+}
